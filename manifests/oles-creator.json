@@ -1,0 +1,12 @@
+{
+  "appId": "oles.creator",
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/YOUR_USERNAME/oles-apps/releases/download/creator-v1.0.0/oles-creator-setup-1.0.0.exe",
+  "fileName": "oles-creator-setup-1.0.0.exe",
+  "packageType": "nsis",
+  "silentArgs": [
+    "/S"
+  ],
+  "sha256": "PASTE_SHA256_HASH_HERE",
+  "releaseNotes": "Initial release."
+}
