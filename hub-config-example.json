@@ -1,8 +1,0 @@
-{
-  "appUpdateManifests": {
-    "oles.creator": "https://raw.githubusercontent.com/YOUR_USERNAME/oles-apps/main/manifests/oles-creator.json",
-    "oles.screen-recorder": "https://raw.githubusercontent.com/YOUR_USERNAME/oles-apps/main/manifests/oles-screen-recorder.json",
-    "oles.video-editor": "https://raw.githubusercontent.com/YOUR_USERNAME/oles-apps/main/manifests/oles-video-editor.json",
-    "oles.photo-editor": "https://raw.githubusercontent.com/YOUR_USERNAME/oles-apps/main/manifests/oles-photo-editor.json"
-  }
-}
