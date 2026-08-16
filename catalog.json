@@ -20,7 +20,7 @@
         "%LOCALAPPDATA%\\Programs\\OLEs Creator\\OLEs Creator.exe",
         "%PROGRAMFILES%\\OLEs Creator\\OLEs Creator.exe"
       ],
-      "releaseNotes": "Initial release."
+      "releaseNotes": "OLEs Creator 2.1.0"
     },
     "oles.screen-recorder": {
       "appId": "oles.screen-recorder",
