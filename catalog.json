@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-10T22:00:00Z",
+  "apps": {
+    "oles.creator": {
+      "appId": "oles.creator",
+      "name": "OLEs Creator",
+      "shortName": "Creator",
+      "category": "Creator Tools",
+      "description": "OLEs Creator application for the OLEs ecosystem.",
+      "plan": "creator",
+      "version": "1.0.0",
+      "installerUrl": "https://github.com/YOUR_GITHUB_USERNAME/oles-apps/releases/download/creator-v1.0.0/OLEs-Creator-Setup-1.0.0.exe",
+      "fileName": "OLEs-Creator-Setup-1.0.0.exe",
+      "sha256": "PASTE_SHA256_HASH_HERE",
+      "silentArgs": [
+        "/S"
+      ],
+      "executablePaths": [
+        "%LOCALAPPDATA%\\Programs\\OLEs Creator\\OLEs Creator.exe",
+        "%PROGRAMFILES%\\OLEs Creator\\OLEs Creator.exe"
+      ],
+      "releaseNotes": "Initial release."
+    },
+    "oles.screen-recorder": {
+      "appId": "oles.screen-recorder",
+      "name": "OLEs Screen Recorder",
+      "shortName": "Recorder",
+      "category": "Recording",
+      "description": "OLEs Screen Recorder application for the OLEs ecosystem.",
+      "plan": "pro",
+      "version": "1.0.0",
+      "installerUrl": "https://github.com/YOUR_GITHUB_USERNAME/oles-apps/releases/download/recorder-v1.0.0/OLEs-Screen-Recorder-Setup-1.0.0.exe",
+      "fileName": "OLEs-Screen-Recorder-Setup-1.0.0.exe",
+      "sha256": "PASTE_SHA256_HASH_HERE",
+      "silentArgs": [
+        "/S"
+      ],
+      "executablePaths": [
+        "%LOCALAPPDATA%\\Programs\\OLEs Screen Recorder\\OLEs Screen Recorder.exe",
+        "%PROGRAMFILES%\\OLEs Screen Recorder\\OLEs Screen Recorder.exe"
+      ],
+      "releaseNotes": "Initial release."
+    },
+    "oles.video-editor": {
+      "appId": "oles.video-editor",
+      "name": "OLEs Video Editor",
+      "shortName": "Video",
+      "category": "Video Editing",
+      "description": "OLEs Video Editor application for the OLEs ecosystem.",
+      "plan": "studio",
+      "version": "1.0.0",
+      "installerUrl": "https://github.com/YOUR_GITHUB_USERNAME/oles-apps/releases/download/video-v1.0.0/OLEs-Video-Editor-Setup-1.0.0.exe",
+      "fileName": "OLEs-Video-Editor-Setup-1.0.0.exe",
+      "sha256": "PASTE_SHA256_HASH_HERE",
+      "silentArgs": [
+        "/S"
+      ],
+      "executablePaths": [
+        "%LOCALAPPDATA%\\Programs\\OLEs Video Editor\\OLEs Video Editor.exe",
+        "%PROGRAMFILES%\\OLEs Video Editor\\OLEs Video Editor.exe"
+      ],
+      "releaseNotes": "Initial release."
+    },
+    "oles.photo-editor": {
+      "appId": "oles.photo-editor",
+      "name": "OLEs Photo Editor",
+      "shortName": "Photo",
+      "category": "Photo Editing",
+      "description": "OLEs Photo Editor application for the OLEs ecosystem.",
+      "plan": "studio",
+      "version": "1.0.0",
+      "installerUrl": "https://github.com/YOUR_GITHUB_USERNAME/oles-apps/releases/download/photo-v1.0.0/OLEs-Photo-Editor-Setup-1.0.0.exe",
+      "fileName": "OLEs-Photo-Editor-Setup-1.0.0.exe",
+      "sha256": "PASTE_SHA256_HASH_HERE",
+      "silentArgs": [
+        "/S"
+      ],
+      "executablePaths": [
+        "%LOCALAPPDATA%\\Programs\\OLEs Photo Editor\\OLEs Photo Editor.exe",
+        "%PROGRAMFILES%\\OLEs Photo Editor\\OLEs Photo Editor.exe"
+      ],
+      "releaseNotes": "Initial release."
+    }
+  }
+}
