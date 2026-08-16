@@ -9,8 +9,8 @@
       "category": "Creator Tools",
       "description": "OLEs Creator application for the OLEs ecosystem.",
       "plan": "creator",
-      "version": "1.0.0",
-      "installerUrl": "https://github.com/KamilOlesMonz/oles-apps/releases/download/creator-v1.0.0/OLEs-Creator-Setup-1.0.0.exe",
+      "version": "2.1.0",
+      "installerUrl": "https://github.com/KamilOlesMonz/oles-apps/releases/download/creator-v1.0.0/OLEs.Creator.Setup.2.1.0.exe",
       "fileName": "OLEs-Creator-Setup-1.0.0.exe",
       "sha256": "PASTE_SHA256_HASH_HERE",
       "silentArgs": [
