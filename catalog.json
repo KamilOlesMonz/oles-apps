@@ -10,7 +10,7 @@
       "description": "OLEs Creator application for the OLEs ecosystem.",
       "plan": "creator",
       "version": "1.0.0",
-      "installerUrl": "https://github.com/YOUR_GITHUB_USERNAME/oles-apps/releases/download/creator-v1.0.0/OLEs-Creator-Setup-1.0.0.exe",
+      "installerUrl": "https://github.com/KamilOlesMonz/oles-apps/releases/download/creator-v1.0.0/OLEs-Creator-Setup-1.0.0.exe",
       "fileName": "OLEs-Creator-Setup-1.0.0.exe",
       "sha256": "PASTE_SHA256_HASH_HERE",
       "silentArgs": [
@@ -30,7 +30,7 @@
       "description": "OLEs Screen Recorder application for the OLEs ecosystem.",
       "plan": "pro",
       "version": "1.0.0",
-      "installerUrl": "https://github.com/YOUR_GITHUB_USERNAME/oles-apps/releases/download/recorder-v1.0.0/OLEs-Screen-Recorder-Setup-1.0.0.exe",
+      "installerUrl": "https://github.com/KamilOlesMonz/oles-apps/releases/download/recorder-v1.0.0/OLEs-Screen-Recorder-Setup-1.0.0.exe",
       "fileName": "OLEs-Screen-Recorder-Setup-1.0.0.exe",
       "sha256": "PASTE_SHA256_HASH_HERE",
       "silentArgs": [
@@ -50,7 +50,7 @@
       "description": "OLEs Video Editor application for the OLEs ecosystem.",
       "plan": "studio",
       "version": "1.0.0",
-      "installerUrl": "https://github.com/YOUR_GITHUB_USERNAME/oles-apps/releases/download/video-v1.0.0/OLEs-Video-Editor-Setup-1.0.0.exe",
+      "installerUrl": "https://github.com/KamilOlesMonz/oles-apps/releases/download/video-v1.0.0/OLEs-Video-Editor-Setup-1.0.0.exe",
       "fileName": "OLEs-Video-Editor-Setup-1.0.0.exe",
       "sha256": "PASTE_SHA256_HASH_HERE",
       "silentArgs": [
@@ -70,7 +70,7 @@
       "description": "OLEs Photo Editor application for the OLEs ecosystem.",
       "plan": "studio",
       "version": "1.0.0",
-      "installerUrl": "https://github.com/YOUR_GITHUB_USERNAME/oles-apps/releases/download/photo-v1.0.0/OLEs-Photo-Editor-Setup-1.0.0.exe",
+      "installerUrl": "https://github.com/KamilOlesMonz/oles-apps/releases/download/photo-v1.0.0/OLEs-Photo-Editor-Setup-1.0.0.exe",
       "fileName": "OLEs-Photo-Editor-Setup-1.0.0.exe",
       "sha256": "PASTE_SHA256_HASH_HERE",
       "silentArgs": [
